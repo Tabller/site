@@ -1,0 +1,11 @@
+.container-fluid {
+    border: 1px blue solid;
+    padding: 10px;
+}
+.col {
+    padding: 20px;
+}
+.btn {
+    border: 1px solid #EDC9B5;
+    align-self: center;
+}
