@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <title>Основной сайт</title>
+    </head>
+    <body>
+        <script src="https://unpkg.com/@polymer/paper-checkbox@next/paper-checkbox.js?module" type="module" ></script>
+<!-- Use it like any other HTML element -->
+<paper-checkbox>Web Components!</paper-checkbox>
+    </body>
+</html>
